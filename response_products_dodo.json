@@ -1,0 +1,1607 @@
+{
+    "response": {
+        "count": 22,
+        "items": [
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "В составе лучше мясные ингредиенты и уникальный соус. Создана для душевных посиделок и праздничной атмосферы.\n\nЦена указана за пиццу 25 см. Также есть размер 30 и 35 см",
+                "id": 10540222,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "57900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "579 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Пицца Кола-барбекю",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-21.userapi.com\/impg\/Rc1goeonZ90WjTikW-OIexpXyziH-HX0ktGtCQ\/QSzgX_Nn8Kg.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=f6b7386e0c6ffdb93096a5e282513166&c_uniq_tag=tKAhJiOmRkWzNFfei4_Ej2rc0XWtwgwVLSkbG1U77rk",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=dc98c9f8a0a85193cc&wishlist=dd292c0bccbdaf8154",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-21.userapi.com\/impg\/Rc1goeonZ90WjTikW-OIexpXyziH-HX0ktGtCQ\/QSzgX_Nn8Kg.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=63602713878f8952fee199714b98181c&c_uniq_tag=1mU3Shmml2bJPI06FTETMGj4JkvSNILEVBJt7ufGbVg",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-21.userapi.com\/impg\/Rc1goeonZ90WjTikW-OIexpXyziH-HX0ktGtCQ\/QSzgX_Nn8Kg.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=dce89a8d16c88dbb0b06c47b2a979fde&c_uniq_tag=TDR8LIkYJhfabxrNMx_ubpJFqM5ICZuELOPY9INOzzs",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-21.userapi.com\/impg\/Rc1goeonZ90WjTikW-OIexpXyziH-HX0ktGtCQ\/QSzgX_Nn8Kg.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=eda283ea44bf0642ed68b4f38fb964b3&c_uniq_tag=5uDypmNR3ALNmiygDfv0b9wVes7JGBOWJHpdjo0VBVw",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-21.userapi.com\/impg\/Rc1goeonZ90WjTikW-OIexpXyziH-HX0ktGtCQ\/QSzgX_Nn8Kg.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=8fea2bbb25cc8cb9bffe76bd96ea4c8e&c_uniq_tag=YYbeBohrd08zcMFGJbb83HR_AAiyOoj22_CFdGIZ6EU",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-21.userapi.com\/impg\/Rc1goeonZ90WjTikW-OIexpXyziH-HX0ktGtCQ\/QSzgX_Nn8Kg.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=28957927bdd1c8a416ef9710bc992bd9&c_uniq_tag=iSE8flUYTNOS7XVv4OQGNlR7DthpGNNa99GRxOEI7U4",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/pitstsa-kola-barbekyu-83709377-10540222"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Сытная закуска для одного с пряной говядиной, цыпленком и томатами.",
+                "id": 10540211,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "28900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "289 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Дэнвич с говядиной",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-24.userapi.com\/impg\/UQQE0rlHhLFfWb2gAroPdU8uZJIJh2lYWJ-d4A\/sehGiF0a0ek.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=6ba508b50bd44c216aa22415ec1360f3&c_uniq_tag=8NFSFSva4FYDjt1k5bIPUiXi6NKOTme5PvNvwopH3kk",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=320301359a8334ab7a&wishlist=b709c6b4ea476bf184",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/UQQE0rlHhLFfWb2gAroPdU8uZJIJh2lYWJ-d4A\/sehGiF0a0ek.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=7772f2bae6e17623c3c323cb4f7e167b&c_uniq_tag=QNayuHxfe9_L-xDSGv8aHHGSwOhSiRtz8knfRAULrKc",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/UQQE0rlHhLFfWb2gAroPdU8uZJIJh2lYWJ-d4A\/sehGiF0a0ek.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=7dec10aaded7fdb49ce093219c2455fe&c_uniq_tag=ucgfACYemhRaxgPRQgILREca7PcOgHAeGOyBujhtgiE",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/UQQE0rlHhLFfWb2gAroPdU8uZJIJh2lYWJ-d4A\/sehGiF0a0ek.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=dceb66e40f3e7edae149a1e209c272a1&c_uniq_tag=UG99wDHOO7ONlBLZAJdnAGfNL4QFC7JM5QLTqpK8nBU",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/UQQE0rlHhLFfWb2gAroPdU8uZJIJh2lYWJ-d4A\/sehGiF0a0ek.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=5166d570576a2e56f264a19eee098d51&c_uniq_tag=Cd8gsa-ynKlK89_JcjA1abZzizylBcVD3GWCSorJRac",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/UQQE0rlHhLFfWb2gAroPdU8uZJIJh2lYWJ-d4A\/sehGiF0a0ek.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=8091f6aba71f7b9a74d36b59ae0813f5&c_uniq_tag=WurH67A0kqJ42JMOsdnDnBu__0xCiEF_yBi4Tskv7V0",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/denvich-s-govyadinoy-83709377-10540211"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Наконец, паста с морепродуктами появилась в меню!\nПопробуйте новинку с креветками, моцареллой, томатами и сливочным соусом.",
+                "id": 10120891,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "39900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "399 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Паста с креветками",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-24.userapi.com\/impg\/JIkhK5xNF1lfbsWGYDH-AkigWFFofgkWSMiNLQ\/-r0ud39V16g.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=80bd564477d80c7f07dab726ae1758ef&c_uniq_tag=prwuFX5C-DcImRs0bzazy-mbdabONmJu8I8QdGMRn6E",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=acea504e74b19b1afd&wishlist=613704e65eaf8b632f",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/JIkhK5xNF1lfbsWGYDH-AkigWFFofgkWSMiNLQ\/-r0ud39V16g.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=2d804080eb9626399e0da015f2cd20c3&c_uniq_tag=XL9N9ra2IauUCv31Fpd05ze2AXesUgfxRmeMv8_SIiA",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/JIkhK5xNF1lfbsWGYDH-AkigWFFofgkWSMiNLQ\/-r0ud39V16g.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=b79de5aca28952c0035b03412cf9d273&c_uniq_tag=elJTBH-4rP-lJFvru927VCUidcZYKQmSTXITMxWohQ8",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/JIkhK5xNF1lfbsWGYDH-AkigWFFofgkWSMiNLQ\/-r0ud39V16g.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=15a448c0c5a9379f4eb7644a502e9df5&c_uniq_tag=_Bt5l_K2eFKdwl35I5Akr4-6qAwc_T_P5rPE7PQofmM",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/JIkhK5xNF1lfbsWGYDH-AkigWFFofgkWSMiNLQ\/-r0ud39V16g.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=c7150b356718ac515c14527fc3fcf5e2&c_uniq_tag=pY3j654IfAwtZoJEfNYxe51AHoqDyxqMKn6Giw0M8JQ",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/JIkhK5xNF1lfbsWGYDH-AkigWFFofgkWSMiNLQ\/-r0ud39V16g.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=2ec6ebca3edd5123612afb2fd6a32c0f&c_uniq_tag=FsNWqjoTnUZmcmAOOSy7U0xkK2GqDpNMcbfnQumVkLs",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/pasta-s-krevetkami-83709377-10120891"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Сытная новинка с пряной говядиной! А еще в пицце Бефстроганов грибы, маринованные огурчики и нежный сливочный соус.\n\nЦена указана за пиццу 25 см, есть также размеры: 30 и 35 см.",
+                "id": 9990767,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "53900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "539 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Бефстроганов",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-22.userapi.com\/impg\/zSwe4NdH37F04tGDqbC3cAW8QGOLrkY-fSMmwg\/ZvSfOLquuWI.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=9f9bac85f55ed6c6db35839cbac0f97b&c_uniq_tag=PV_KMyHjvSSyGuc56ByZUMiJwHyoXqdxMGzGvAiwKqU",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=3b4c1e943884e5c1f2&wishlist=0c42fca8a77ebb074d",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/zSwe4NdH37F04tGDqbC3cAW8QGOLrkY-fSMmwg\/ZvSfOLquuWI.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=234eefaf52e06803d546dfdeae5cab2c&c_uniq_tag=8-2CSVqWsYvwvEqBqKuqpC-zmpvz-quNAzssKQ7a60g",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/zSwe4NdH37F04tGDqbC3cAW8QGOLrkY-fSMmwg\/ZvSfOLquuWI.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=d85e957cdf732b32136b58db755f03e9&c_uniq_tag=QrIgmKSF3v4s1P0E7OKWoWqwjVIQh60sypvwiFN-bWk",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/zSwe4NdH37F04tGDqbC3cAW8QGOLrkY-fSMmwg\/ZvSfOLquuWI.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=dcba8eaf4c44be3a4a923d20ec5713de&c_uniq_tag=ejg88QSEn8VxquEvZhcON5-WZS7dkkjnCecYPen2vG8",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/zSwe4NdH37F04tGDqbC3cAW8QGOLrkY-fSMmwg\/ZvSfOLquuWI.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=b4efe8dddef36b40c83d09bd63db9bb0&c_uniq_tag=plXljehdDXvjP6TfNc4_cOTQ3fN_a_3pKRhCs8cm6Zc",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/zSwe4NdH37F04tGDqbC3cAW8QGOLrkY-fSMmwg\/ZvSfOLquuWI.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=9656f9aaa5dd19bd7a03bfce46b189cb&c_uniq_tag=cdYfDYUlvzIl2qzpfZx7dBGSIkwrRTuBFP2BHDpr3Pk",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/befstroganov-83709377-9990767"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Для любителей остренького. Баварские колбаски, соус аджика, острые чоризо, цыпленок, пепперони, моцарелла и томатный соус.\n\nЦена указана за пиццу 25 см, есть также размеры: 30 и 35 см.",
+                "id": 9861367,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "53900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "539 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Мясная с аджикой",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-3.userapi.com\/impg\/3P7cCt5-dho9kYQC1BF86n8voDYIyuPzL6a0HA\/FnBYvUXGec0.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=1a8099b4e4c175e4c9f18768474c8113&c_uniq_tag=7DjPy6OiPba9-o5jzgtW5OuiQOwFzcVJwqSLrThg5So",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=faff2383394115a0a7&wishlist=289e62ca5b79d671cd",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/3P7cCt5-dho9kYQC1BF86n8voDYIyuPzL6a0HA\/FnBYvUXGec0.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=addbc032889e951f464c7ff0b916c2c2&c_uniq_tag=0wlVQgNU_Z40CcRxnI2GL53zSUg3B2CrJ87NG6QIolM",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/3P7cCt5-dho9kYQC1BF86n8voDYIyuPzL6a0HA\/FnBYvUXGec0.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=a16a3ba8b1dcb00806bc42e3a52a94c4&c_uniq_tag=T4LOfzlzRZaTVMJUXgaP_Ylqt0dbSXTDPqWyqGMgvqQ",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/3P7cCt5-dho9kYQC1BF86n8voDYIyuPzL6a0HA\/FnBYvUXGec0.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=a5d3f337621bdd18bed1552804d1a73a&c_uniq_tag=ueFc6cCp2umqjjfNO02qNFr8OQxjk-265y3UBf-MBOA",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/3P7cCt5-dho9kYQC1BF86n8voDYIyuPzL6a0HA\/FnBYvUXGec0.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=bff90787e8a5845ae3ab9b7666010d8c&c_uniq_tag=FyGNpDaKCUKqjjhSO9paiqu-850dpdaptwkZDC1ulSE",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/3P7cCt5-dho9kYQC1BF86n8voDYIyuPzL6a0HA\/FnBYvUXGec0.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=3c3d8c736fe40270f550017e4fe63694&c_uniq_tag=FiJTehwP9n7heAtdbXvrad3rW7kYYNQW0Fz_p8UKAjY",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/myasnaya-s-adzhikoy-83709377-9861367"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Тропическое сочетание кокоса и ананаса в нежном милкшейке.",
+                "id": 9720880,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "22500",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "225 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Коктейль Пина Колада",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-22.userapi.com\/impg\/I5KINhMH8ef_h5sgTr0ZYPg8R0ZRk-cu1TUvdw\/rvK3Z-Alwww.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=56daea7c7cfdd5e62532e1d31d3241e7&c_uniq_tag=HAU3mo0uuYskDs_kvGPSy23JMMkr8WHQ8QBPSnWPJJ8",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=f5d534fe223127debe&wishlist=5e35100eff4e120173",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/I5KINhMH8ef_h5sgTr0ZYPg8R0ZRk-cu1TUvdw\/rvK3Z-Alwww.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=eebcdd0b9d6f26940b28b7d1dc2c4923&c_uniq_tag=iT2k81fUp6PVBIiC9VE0yuo0J2v4k-JAFHhxnFjH1YQ",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/I5KINhMH8ef_h5sgTr0ZYPg8R0ZRk-cu1TUvdw\/rvK3Z-Alwww.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=ef998e188e680c503c19bac44c79fb51&c_uniq_tag=7uDDos90z_cwvRTcICLDZGDkmw9b7QkN1ECEGHb_nco",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/I5KINhMH8ef_h5sgTr0ZYPg8R0ZRk-cu1TUvdw\/rvK3Z-Alwww.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=1ff0ce9096c8f74efc2eddf6c3b6e495&c_uniq_tag=_v94xyxlh4PM9rYB-cHSdnlF3WqAaZfT-nnqD8Gf0as",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/I5KINhMH8ef_h5sgTr0ZYPg8R0ZRk-cu1TUvdw\/rvK3Z-Alwww.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=d8953d9ac828837a83c225c3ac1da5d9&c_uniq_tag=cEouO3hxHd_VBNJ3_aP_xIcAQArHRCEiOcbkzNld534",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/I5KINhMH8ef_h5sgTr0ZYPg8R0ZRk-cu1TUvdw\/rvK3Z-Alwww.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=3dfb42683857f510120e9c640f5f67af&c_uniq_tag=2k8niWE4OXSDZHDwrSx5FymflOgFppliJPC1BuoGpeM",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/kokteyl-pina-kolada-83709377-9720880"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Прохладный газированный напиток, раскрывающий дуэт сладкой малины и особенной кислинки граната.",
+                "id": 9720883,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "13900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "139 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Лимонад Малина-Гранат",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-23.userapi.com\/impg\/FA3-HvKyEekWQ5yQ7rR7obcZ363sR6p1C5MCYw\/wNM3n3A5wxc.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=567cf4ad2ec43b59cd3344df9e701576&c_uniq_tag=rvKua6x9njdUPZ_qOenljgLMB8t_x4TvQOjn_81qOLI",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=56b663f7a1564aaecf&wishlist=93d3079734d8883a25",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/FA3-HvKyEekWQ5yQ7rR7obcZ363sR6p1C5MCYw\/wNM3n3A5wxc.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=f4a5e8042ae919e14d3ed8b31ec99c94&c_uniq_tag=a_3Gy6SzagCNY6z3wx_hzFu4KopGf8FF1M6kWBx-e-k",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/FA3-HvKyEekWQ5yQ7rR7obcZ363sR6p1C5MCYw\/wNM3n3A5wxc.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=1927b0b8dd6f052f4a4ceaa33787b989&c_uniq_tag=KayH4-cYZr_WADX1QLl86OO4fyTl_Hcnjej8PGjppqk",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/FA3-HvKyEekWQ5yQ7rR7obcZ363sR6p1C5MCYw\/wNM3n3A5wxc.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=8acf5b445c7c5239f11fa29cc972fe66&c_uniq_tag=nRF8JyO46I4gEFOQ06FYD_tsx0oKv3sByOD_VZQxgCI",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/FA3-HvKyEekWQ5yQ7rR7obcZ363sR6p1C5MCYw\/wNM3n3A5wxc.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=18af3d2ba9323eef9f8b85ee062a566d&c_uniq_tag=pSaEjmY2dy-UZNTcMO6fpqr2hKrmYJ5XKBEDR0AG7xE",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/FA3-HvKyEekWQ5yQ7rR7obcZ363sR6p1C5MCYw\/wNM3n3A5wxc.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=5e10e17294d0d83e62cd2e0a42a2fd36&c_uniq_tag=1-F7pxbvQfC3VA4Se_rS5_cJKnOA2mShZr2_ByAqtSI",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/limonad-malina-granat-83709377-9720883"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Сливочная прохлада классического молочного коктейля с добавлением лесных ягод.",
+                "id": 9720894,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "22500",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "225 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Коктейль Ежевика-Малина",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-23.userapi.com\/impg\/kYrZtPmTBciUiLZKHaHMdf19On7TDvzwkQqoKw\/Bd0UugxU6Mc.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=53ffcdee0c5eda83f0c5e0fa7af5da52&c_uniq_tag=I9QxpknuwPcbqdEi_YRiyKy6YBJk0QkUk8aV6drotoA",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=8d05d987dd16c2424b&wishlist=ae6acae0e1c62b1131",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/kYrZtPmTBciUiLZKHaHMdf19On7TDvzwkQqoKw\/Bd0UugxU6Mc.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=02b2d8b1ba0fc06ca008fcb6c26661cd&c_uniq_tag=rDaylAQ-Zh1tUnS2whTt-XOli6S6MvMQ5G8L3D-0F5M",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/kYrZtPmTBciUiLZKHaHMdf19On7TDvzwkQqoKw\/Bd0UugxU6Mc.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=d820cc12bc01d02244df8d03b8bbf20f&c_uniq_tag=Qd9uxhGDTqCzmmD0dmoy9Hcv9W4J5-QRES8h5BEB2Zw",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/kYrZtPmTBciUiLZKHaHMdf19On7TDvzwkQqoKw\/Bd0UugxU6Mc.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=76f6ddf417a974d60957da823e57695a&c_uniq_tag=N0bgvYF_l1LB0VbLHm0e5MKnAZTYrdY93nKxTFErlVY",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/kYrZtPmTBciUiLZKHaHMdf19On7TDvzwkQqoKw\/Bd0UugxU6Mc.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=2960bfc666cabcc49b9dcceee71e6ec3&c_uniq_tag=BURY7YbTODnSnjZc_9mEjDnHZ1ibk10Zndl1zODgI18",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impg\/kYrZtPmTBciUiLZKHaHMdf19On7TDvzwkQqoKw\/Bd0UugxU6Mc.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=320caf672a01edf5f2b72d3e32542914&c_uniq_tag=SV2ssUyEAq6KmCd-nLgityP0qViZc9vVshNC43jzaCo",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/kokteyl-ezhevika-malina-83709377-9720894"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Долгожданная новинка с морепродуктами — пицца Креветки со сладким чили. Знаем, что вы ее особенно ждали. Уникальное сочетание креветок, соуса сладкий чили и ананасов — получилось необычно и вкусно!\n\nЦена указана за пиццу 25 см, есть также размеры: 30 и 35 см.",
+                "id": 9519695,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "58900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "589 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Креветки со сладким чили",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-20.userapi.com\/impg\/Azsmmz-jpxi5VXccaWQDliptgK_R3mvZUzFEKA\/R1gdd3moiLc.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=e1c223837c867c8ca123e32f6b764e16&c_uniq_tag=MEfgh0nMtEeCLAhNUQ6adNU3vmc_TdrdXHTJPzUodVo",
+                "url": "dodopizza.onelink.me\/YlkM",
+                "csrf_hashes": "fav=0d47e055db83d379c1&wishlist=e7bef0180a948c7a93",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/Azsmmz-jpxi5VXccaWQDliptgK_R3mvZUzFEKA\/R1gdd3moiLc.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=a5515a740b0e3839e29fede804bc1b31&c_uniq_tag=IjR30gF3oE-mcgaOrI_cY_kbOSNVqG8-16qKmZCYpmM",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/Azsmmz-jpxi5VXccaWQDliptgK_R3mvZUzFEKA\/R1gdd3moiLc.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=4dde131ec7bdb786b1d7a11025fa8df4&c_uniq_tag=-tGKANNPr_3Pxz0aCLnHGBzfyub1MNyW4xM2zuOLU4M",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/Azsmmz-jpxi5VXccaWQDliptgK_R3mvZUzFEKA\/R1gdd3moiLc.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=449bc55039300a8426de3658fd25cd71&c_uniq_tag=5lozx569OnumsloGSU9V0kZ9Q1i7uY2lIkI--rLTs1Y",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/Azsmmz-jpxi5VXccaWQDliptgK_R3mvZUzFEKA\/R1gdd3moiLc.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=f8b1d5e67b6caafa958d05612f80b5c9&c_uniq_tag=sZCj9XNkSkD8rqwhZmd9euQm80JVvckQXXazdEJKMXw",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/Azsmmz-jpxi5VXccaWQDliptgK_R3mvZUzFEKA\/R1gdd3moiLc.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=5b49722a46757c43c28bdc90be42d7b5&c_uniq_tag=l0EU36w2QGUl8WGNSNRJBNLO1_TCG5ZUJVo3HHrX0aA",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/krevetki-so-sladkim-chili-83709377-9519695"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Уникальное предложение только в ресторанах — комбо «Чикен бокс».\nВыбирайте Куриные наггетсы, Кусочки или Крылья барбекю и заказывайте\nсразу в выгодном комбо с пряной Картошкой и соусом.",
+                "id": 9209105,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "28000",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "280 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Чикен Бокс",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-6.userapi.com\/impg\/zkKELMEtvfiJtxR5Dht99FBh27OxAdXCZMtPNg\/z5yFXRHo7RU.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=18f5ced88206002677da4fe62c887d6c&c_uniq_tag=pEB8YZTlgLs6NPslHtOGy-uJtsNubaCgR2tGSu6fRYE",
+                "url": "dodopizza.onelink.me",
+                "csrf_hashes": "fav=f3b4baa9c123033197&wishlist=a63d47b2d032c61ae9",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-6.userapi.com\/impg\/zkKELMEtvfiJtxR5Dht99FBh27OxAdXCZMtPNg\/z5yFXRHo7RU.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=5960b5c93774bc7a23f9a961d738423d&c_uniq_tag=B-QGkkeuJiLBegW0HTloBMj_RkfL3jAyH7U6-1DfXS4",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-6.userapi.com\/impg\/zkKELMEtvfiJtxR5Dht99FBh27OxAdXCZMtPNg\/z5yFXRHo7RU.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=72d0b1b0a0b3e42e77d454f1a7b19d1f&c_uniq_tag=istAkKWaGCmp4mO9LamztJuuhOxX5JMO8YPJqhpgOyQ",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-6.userapi.com\/impg\/zkKELMEtvfiJtxR5Dht99FBh27OxAdXCZMtPNg\/z5yFXRHo7RU.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=9d30a6d00bfc4af8ca90463561525002&c_uniq_tag=y-xTF2Sep66uva0v0Vc-MIZfOYJJt1Xtny8gZnG054w",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-6.userapi.com\/impg\/zkKELMEtvfiJtxR5Dht99FBh27OxAdXCZMtPNg\/z5yFXRHo7RU.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=cb31247f6aeba8df96ab373faffaf632&c_uniq_tag=L3bwjP522Dht3x344haQ6k177YDMLcO0qUUNNN16K84",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-6.userapi.com\/impg\/zkKELMEtvfiJtxR5Dht99FBh27OxAdXCZMtPNg\/z5yFXRHo7RU.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=09795908fc21f4e13004d1b80d93db6e&c_uniq_tag=DZTD77O3ZlFCfxsZCCBwVflq2LUUzJO0LzhtSZ3p3po",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/chiken-box-83709377-9209105"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Новое выгодное комбо! Теперь вы сами можете выбрать любимую комбинацию из закусок.",
+                "id": 9209109,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "34900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "349 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Додо комбо",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-18.userapi.com\/impg\/4XPxYeYhKTBT9l_1TKthVRy4iJlXgZ-1GkT1Ow\/Cc9oV9eKltA.jpg?crop=0,0,0.999,1&size=0x400&quality=95&sign=12923374e3a64d7c20a632448cc79f06&c_uniq_tag=5P5ZSsr_NOKubDJWdXkdeOmLTo2Iamjvelnl58elxJQ",
+                "url": "dodopizza.onelink.me",
+                "csrf_hashes": "fav=3f793050cbcaf3385d&wishlist=dca988fb11b9de3b55",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/4XPxYeYhKTBT9l_1TKthVRy4iJlXgZ-1GkT1Ow\/Cc9oV9eKltA.jpg?crop=0,0,0.999,1&size=0x90&quality=95&sign=88fc41ee07fc262818b18f7e1ecbd463&c_uniq_tag=H7nVCrWTCrzmo3LDnd6mBNj5s9kR6Sz0pnf6BdSzKa0",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/4XPxYeYhKTBT9l_1TKthVRy4iJlXgZ-1GkT1Ow\/Cc9oV9eKltA.jpg?crop=0,0,0.999,1&size=0x180&quality=95&sign=7efec624880502701bd48f47ce30ef81&c_uniq_tag=CTHBDSmf5LIaiXJxOTrat6UHUVvvTK_0cjyWRPa-X3Y",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/4XPxYeYhKTBT9l_1TKthVRy4iJlXgZ-1GkT1Ow\/Cc9oV9eKltA.jpg?crop=0,0,0.999,1&size=0x360&quality=95&sign=3c3aefae360cc843042373cdc4ce5771&c_uniq_tag=8hG18CUgbA-k6-QPva1JzUGjW3vSCMQlShB-boqLwXM",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/4XPxYeYhKTBT9l_1TKthVRy4iJlXgZ-1GkT1Ow\/Cc9oV9eKltA.jpg?crop=0,0,0.999,1&size=0x480&quality=95&sign=d76765e0ac528d633ef0ab315c93cc11&c_uniq_tag=BnXSsmNct4-xEGP6NWdsCrz8cfPmMh-nCnMv7JTx6o4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/4XPxYeYhKTBT9l_1TKthVRy4iJlXgZ-1GkT1Ow\/Cc9oV9eKltA.jpg?crop=0,0,0.999,1&size=0x640&quality=95&sign=5f714e20badabfbdf25c73ead9af0986&c_uniq_tag=6bN3PbyjfdrRqZDavjlLcVGepLhPdwC11s-YDIMufPg",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/dodo-kombo-83709377-9209109"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Добавили сразу три Эклера-мини в одну коробочку. Просто потому что три —\nэто всегда лучше, чем два.",
+                "id": 9208706,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "15900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "159 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Эклеры",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-22.userapi.com\/impg\/8QfazlUNfC4rZCzo0E_edF9RQd0hwyQSvROc1A\/Y2gZ11IyQ4Q.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=88d518b3ffb2bab011cc30e9c7a93ed8&c_uniq_tag=S_CKS1z53GNxHRtioWNtMDgrPTegzYaAZXCRtlSpIFg",
+                "url": "dodopizza.onelink.me",
+                "csrf_hashes": "fav=93fc7c1edd78c525d9&wishlist=386f15423ee6ddfe4e",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/8QfazlUNfC4rZCzo0E_edF9RQd0hwyQSvROc1A\/Y2gZ11IyQ4Q.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=8c5ab9519aafa3067d858f10301cd9f1&c_uniq_tag=U2azGEDJC1tSLHb8vexpg3bpnVLej1kXiD7XJuLeEuU",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/8QfazlUNfC4rZCzo0E_edF9RQd0hwyQSvROc1A\/Y2gZ11IyQ4Q.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=72f54d07c17d314d7fcbc9f3136161b5&c_uniq_tag=K5nWyRaOgNVbQ_tkld3hPzf9_09HEyWeSKA4EP4GgaA",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/8QfazlUNfC4rZCzo0E_edF9RQd0hwyQSvROc1A\/Y2gZ11IyQ4Q.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=f2b03a23721f27715af2348fbcc2c478&c_uniq_tag=6cYYRhVNONjnw1vAcjIqkVfPpZYCP1SK74TnnuV3L7A",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/8QfazlUNfC4rZCzo0E_edF9RQd0hwyQSvROc1A\/Y2gZ11IyQ4Q.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=b0f829fc8cee9c9e6c9eb064f4e34a5e&c_uniq_tag=Z75pX8B850OB2-Rsm1S9wtyk2hpD6hWPsJKr4ecTt70",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-22.userapi.com\/impg\/8QfazlUNfC4rZCzo0E_edF9RQd0hwyQSvROc1A\/Y2gZ11IyQ4Q.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=c74ebaaeae1e3a71d790d41be0ae228f&c_uniq_tag=LBXhT17lUZrRKcbeG43X0UAwQCoJlo6I8Lcxie1muTI",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/eklery-83709377-9208706"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30552,
+                    "name": "Салаты и закуски",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Хрустящие, запеченные в печи Наггетсы – любимые как детьми так и взрослыми.",
+                "id": 8902934,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "15900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "159 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Куриные Наггетсы",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-18.userapi.com\/impg\/zXO9Pb-eKCVp1img3ttnrSuFlhBok_azvZdKKQ\/MCRvUwX_3_U.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=0e41e48c80abc145075257faa22b10c7&c_uniq_tag=EPC7vWV0k72mGbQD3aUTKVckMII_i7ioeZeL2xz1q3I",
+                "csrf_hashes": "fav=04d6aca51e57fc2759&wishlist=1341255e2de60cfe5d",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/zXO9Pb-eKCVp1img3ttnrSuFlhBok_azvZdKKQ\/MCRvUwX_3_U.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=6d38c303a743ffa62774e83c56092bcc&c_uniq_tag=YKeiZo3dulzeiF_eXuR8qf65C_--CtasekpPLRc2kbk",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/zXO9Pb-eKCVp1img3ttnrSuFlhBok_azvZdKKQ\/MCRvUwX_3_U.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=d983f5ae9b6936c269c377bc32431255&c_uniq_tag=YBAHqLcJ-dJWnSPl6H30Vac5B9YkVAR9mC7qU2plBho",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/zXO9Pb-eKCVp1img3ttnrSuFlhBok_azvZdKKQ\/MCRvUwX_3_U.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=e22df63085e80d2389781d15ba26a329&c_uniq_tag=hrumLMzY72d9OvqMArh3nC_OU50TmIduvLrJ0aajXSI",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/zXO9Pb-eKCVp1img3ttnrSuFlhBok_azvZdKKQ\/MCRvUwX_3_U.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=e05820714a7d5d79ec0bfd3cdd4b87ad&c_uniq_tag=aFUKWWf84RS2U0NNRX4nTTR2f6RQCUDH8YeioltlX0w",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-18.userapi.com\/impg\/zXO9Pb-eKCVp1img3ttnrSuFlhBok_azvZdKKQ\/MCRvUwX_3_U.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=9003541f57679f6480764c98e9d77348&c_uniq_tag=2bcYCcH9_7Z9nq_PhLAgjBTp6rN9OCFD0MSpaUyx1jk",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/kurinye-naggetsy-83709377-8902934"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 41017,
+                    "name": "Торты, пирожные, бисквиты, коржи",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30475,
+                        "name": "Хлеб, выпечка, сладости",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20055,
+                            "name": "Бакалея",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10006,
+                                "name": "Продукты питания",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Нежный десерт с ярким вкусом манго и маракуйи уже в меню. В одной упаковке сразу\n2 штуки, чтобы делиться с близкими.",
+                "id": 8902927,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "11900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "119 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Макарон",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-20.userapi.com\/impg\/_sV1HKT6H-NY_TwU0qALgDtZYaMv75iOYJbDbA\/4wc5-c5lzxo.jpg?size=0x400&crop=0.008,0.008,0.984,0.984&quality=95&sign=a87c89ba6ba3240ff52d072dce393d70&c_uniq_tag=jfZxLZ1jLW4Z03JUVrStmH8JJisjt37S6xSkFi9KpKI",
+                "csrf_hashes": "fav=bc11daf00598e49830&wishlist=7c3cf0e6636d359567",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/_sV1HKT6H-NY_TwU0qALgDtZYaMv75iOYJbDbA\/4wc5-c5lzxo.jpg?size=0x90&crop=0.008,0.008,0.984,0.984&quality=95&sign=300b2a688eea15667d682702833ecf0c&c_uniq_tag=kCyezJ7CvjJGsksASxNXTgusLprOuFFbDAk7i4Hs6zA",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/_sV1HKT6H-NY_TwU0qALgDtZYaMv75iOYJbDbA\/4wc5-c5lzxo.jpg?size=0x180&crop=0.008,0.008,0.984,0.984&quality=95&sign=40b6c724a71797790371fbb6018f9915&c_uniq_tag=iSscw2F0aUNcgE6-K5psog2225lfXrgJa87A-DSzzrs",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/_sV1HKT6H-NY_TwU0qALgDtZYaMv75iOYJbDbA\/4wc5-c5lzxo.jpg?size=0x360&crop=0.008,0.008,0.984,0.984&quality=95&sign=8176d6d603d76b599841a34d28a5b420&c_uniq_tag=yrgDqD712lA5Ab63mZ4KiTbc-3FcThhXoSs7MnLMtQA",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/_sV1HKT6H-NY_TwU0qALgDtZYaMv75iOYJbDbA\/4wc5-c5lzxo.jpg?size=0x480&crop=0.008,0.008,0.984,0.984&quality=95&sign=cb36e92439a00db494bf1c67cb843832&c_uniq_tag=Mw7f8x1hNRob2BCbjAf8PXOkzo6xQX44WaBrweXor4U",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/_sV1HKT6H-NY_TwU0qALgDtZYaMv75iOYJbDbA\/4wc5-c5lzxo.jpg?size=0x640&crop=0.008,0.008,0.984,0.984&quality=95&sign=7fc003efdd3a364c23571d190cdf67f0&c_uniq_tag=o_FuCU_3eIhqC1QbEK1vQSw-00dbDJlk8EQJ1qIKqy8",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/makaron-83709377-8902927"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Заказывайте комбо и экономьте до 22% на заказе. \n\nЦена указана «от», она меняется в зависимости от пиццы.",
+                "id": 8619485,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "94900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "949 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Комбо 3 пиццы",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-4.userapi.com\/impg\/LN15kNZONebC9ALstEHlsvoOs-znLrgQZOBzXw\/PgWxr_7c5u0.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=c15429e23c5e596369eb7ba380710c52&c_uniq_tag=JGCgbGfWPEoc0fN6HZJYozEak8HBa1-tl_q1eShLIZc",
+                "csrf_hashes": "fav=4503fa07bea48fb6f5&wishlist=8305f8f7422119a6a9",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-4.userapi.com\/impg\/LN15kNZONebC9ALstEHlsvoOs-znLrgQZOBzXw\/PgWxr_7c5u0.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=3a2531a09bd6ad9b85f5d05dabddc6de&c_uniq_tag=FWsaKexmFRUp2t8uILRYyCts4TDlRBYVxsEcDgLqreU",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-4.userapi.com\/impg\/LN15kNZONebC9ALstEHlsvoOs-znLrgQZOBzXw\/PgWxr_7c5u0.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=9196bbba16eb6add2aa7e50fe8584fee&c_uniq_tag=I5NSHKFer6LH73b1OFQ70bAIQmixQJ2NkT8BXkKq1bg",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-4.userapi.com\/impg\/LN15kNZONebC9ALstEHlsvoOs-znLrgQZOBzXw\/PgWxr_7c5u0.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=7b67a328c9175aa7bb5fd260c4ef8184&c_uniq_tag=7_zSd9_D_DBw8t93w96w5jGJ9RXOsxAyGlcMOCCF3lw",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-4.userapi.com\/impg\/LN15kNZONebC9ALstEHlsvoOs-znLrgQZOBzXw\/PgWxr_7c5u0.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=7ef8f734ae8c2fe6bff460b8c94e7db1&c_uniq_tag=-pZXGZByvf3Qwz7s0Fr1597k0AYQLy64U6p9v1Dydnw",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-4.userapi.com\/impg\/LN15kNZONebC9ALstEHlsvoOs-znLrgQZOBzXw\/PgWxr_7c5u0.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=939d9028e12bd28a8434f102e1a8cc4b&c_uniq_tag=tYqYBx3Ouf-njEYKnukz1qly8sUFInajWjDkuHlGOU8",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/kombo-3-pitstsy-83709377-8619485"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30552,
+                    "name": "Салаты и закуски",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Заказывайте комбо и экономьте до 12% на заказе",
+                "id": 8619510,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "25900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "259 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Комбо Додстер + напиток",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-3.userapi.com\/impg\/EYqb-Sc-MmsjzzXwlxTV1NevqzqeK_meThFgVw\/8zTzBjUgOZI.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=1cbf5038935d47af740d2e80d40897db&c_uniq_tag=ZokJiruAarpoJZCte-oNpUvbxT2asm-AvgmHNxdX3IM",
+                "csrf_hashes": "fav=3005b4b0152433aee8&wishlist=85dae7e4757cce831b",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/EYqb-Sc-MmsjzzXwlxTV1NevqzqeK_meThFgVw\/8zTzBjUgOZI.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=d0e88c72d83faf420fd06b0de5ef2aa1&c_uniq_tag=kTwhJuGQumZC6wymXsKhEguX5G9xLw2S3iQd8yfbPjs",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/EYqb-Sc-MmsjzzXwlxTV1NevqzqeK_meThFgVw\/8zTzBjUgOZI.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=abc182317f4aaaab172ce945d84fcb70&c_uniq_tag=WPy4E8IKWFu46UCYnu_ypYoVF2dOvgCIXjtHI8D-X4M",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/EYqb-Sc-MmsjzzXwlxTV1NevqzqeK_meThFgVw\/8zTzBjUgOZI.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=3e49badfd3c101e89725d4c10fdfd343&c_uniq_tag=vDYIXZfUUm_gPWht3IO7R-QoyggGvuR-qCDTVYBdYlE",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/EYqb-Sc-MmsjzzXwlxTV1NevqzqeK_meThFgVw\/8zTzBjUgOZI.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=5b7263204630d037eeaf9063324a00cf&c_uniq_tag=B2Kee5KUVuhNtvRbMUdewnjApipuZGANUg6sA5r43PA",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-3.userapi.com\/impg\/EYqb-Sc-MmsjzzXwlxTV1NevqzqeK_meThFgVw\/8zTzBjUgOZI.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=34341650153e9abfac4371d6d0e7969f&c_uniq_tag=GeGqfO0xdgweMws7KQQCZ-Q3lBmrDmBL21I-v1ZQs9s",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/kombo-dodster-napitok-83709377-8619510"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40936,
+                    "name": "Какао, горячий шоколад",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30463,
+                        "name": "Чай, кофе, какао",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20055,
+                            "name": "Бакалея",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10006,
+                                "name": "Продукты питания",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Согревающая новинка — горячий Какао.\nИдеален для осени, долгих прогулок и уютных посиделок.",
+                "id": 8619531,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "13900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "139 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Какао",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-20.userapi.com\/impg\/8R78DlH6AX-PWGRvHqa8GBe9pdSVzIaRO57yQw\/ptiWeshqj3Q.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=44cf377fdb03c75112947ba6b1117ef4&c_uniq_tag=xw8EhKUHoOMFJJzh73ec7mrgAI3Urt4L6QYeTFtWk74",
+                "url": "https:\/\/dodopizza.ru\/ekaterinburg\/drink\/cocoa",
+                "csrf_hashes": "fav=502d776e5b3237cbca&wishlist=ea23aef8d7877a4cfd",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/8R78DlH6AX-PWGRvHqa8GBe9pdSVzIaRO57yQw\/ptiWeshqj3Q.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=5ccb3e7d17e9dea8459a5eb848bb65f7&c_uniq_tag=K6HOfY4LwwvTsprIu24Vivawjvj7sDiEdDVfidllt90",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/8R78DlH6AX-PWGRvHqa8GBe9pdSVzIaRO57yQw\/ptiWeshqj3Q.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=a2defe5ced1af6b85e72aa786df97257&c_uniq_tag=ayhos3-uidk8eYzTV8lAmIkOOiASduRj63E9ehHOBS4",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/8R78DlH6AX-PWGRvHqa8GBe9pdSVzIaRO57yQw\/ptiWeshqj3Q.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=1430a28b63ae319286edb6b670c0b8a3&c_uniq_tag=zmyNY7ezosp6Rec3M_EGTT-LzWkgsLVNZd96D4TZL5Y",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/8R78DlH6AX-PWGRvHqa8GBe9pdSVzIaRO57yQw\/ptiWeshqj3Q.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=7ef78a908f2709b4ac9acf45f242ce57&c_uniq_tag=3B99gwVF_aT53beppribo1ZHyhera_876x3F-_k4SlI",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-20.userapi.com\/impg\/8R78DlH6AX-PWGRvHqa8GBe9pdSVzIaRO57yQw\/ptiWeshqj3Q.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=0471b771278f2fdd1dd94829347c3870&c_uniq_tag=7wRHdUHhPpAj4wLXMTQUvW0_bI9QZuFKy00a1Kj1nes",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/kakao-83709377-8619531"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Увеличенная порция моцареллы, томаты, итальянские травы, фирменный томатный соус",
+                "id": 9251878,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "51500",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "515 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Маргарита",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-24.userapi.com\/impg\/TChyMYxDy9KE9X3FQkxNTQ1TxHmdp9PHtTw7ig\/lGUFvSWhzIM.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=fa690664ffa7f8cc0177f79bce39c3c8&c_uniq_tag=lG3E0Euit8o6cqOtYpcX8gWhpB_oxONlXa_EGbhsMvE",
+                "url": "dodopizza.onelink.me",
+                "csrf_hashes": "fav=19646ab1e5179c955c&wishlist=852456a72bc95982f6",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/TChyMYxDy9KE9X3FQkxNTQ1TxHmdp9PHtTw7ig\/lGUFvSWhzIM.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=1969b707a73ecac30cd7abd4e8ea81c0&c_uniq_tag=C_RucrCyDjWyaY79UI6j5sUPdWwOPJEVG2Njs-xjWMA",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/TChyMYxDy9KE9X3FQkxNTQ1TxHmdp9PHtTw7ig\/lGUFvSWhzIM.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=281914b84ff0e4df2e1ee78346fe238e&c_uniq_tag=S13YPKK6DXJTn5hU0KHfS7qpv44-iHCjaS4NJ6zRVl8",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/TChyMYxDy9KE9X3FQkxNTQ1TxHmdp9PHtTw7ig\/lGUFvSWhzIM.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=b243c7fdcba0c34fd1c2ad909f8ba188&c_uniq_tag=5M3bWwAjOEWha6rDGYwS81A2xlYMIz2tDz_kPbjVcpA",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/TChyMYxDy9KE9X3FQkxNTQ1TxHmdp9PHtTw7ig\/lGUFvSWhzIM.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=7c68cb1a95fcc43315f71712ab89dd1f&c_uniq_tag=DjaLNpHxsrUa4C9nujDaKeyO3qxHWsCqVQ6PVNEjv1w",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/TChyMYxDy9KE9X3FQkxNTQ1TxHmdp9PHtTw7ig\/lGUFvSWhzIM.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=d9e6d0994a53265ba4ea2e386e761a41&c_uniq_tag=yIpCfW-hL2zpy1Wq_BRjqMeg6jFPCXowRumnfP_RAUY",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/margarita-83709377-9251878"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Бекон, митболы, пикантная пепперони, моцарелла, томаты, шампиньоны, сладкий перец, красный лук, чеснок, фирменный томатный соус",
+                "id": 9251900,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "65900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "659 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Додо",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-24.userapi.com\/impg\/gyjL9mM7VnVwQyYO0muLX4YpJES5EfNgfn9Tnw\/y_4Ewk8R3kM.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=17956a781e8a5dcda87d99a65eafbccd&c_uniq_tag=BBQeGwaEaLYmZQMVx1Den-oWsOdYDoci_ilRkh2gUQ4",
+                "url": "dodopizza.onelink.me",
+                "csrf_hashes": "fav=b35e98f4b51fd6e01d&wishlist=94e2b947b14c20e8dc",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/gyjL9mM7VnVwQyYO0muLX4YpJES5EfNgfn9Tnw\/y_4Ewk8R3kM.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=9b53d341081355748904a70a80775ea5&c_uniq_tag=Hj792rZHGk7TA5sZqGJpYWYMKUFsM01gbb0QXo1S2K0",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/gyjL9mM7VnVwQyYO0muLX4YpJES5EfNgfn9Tnw\/y_4Ewk8R3kM.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=96debce06764f61c907bf7a1aa1e3193&c_uniq_tag=Lbty-ZHwBCEtcklKpWVXRk0rje9HgtEvXyoxfeqWsQY",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/gyjL9mM7VnVwQyYO0muLX4YpJES5EfNgfn9Tnw\/y_4Ewk8R3kM.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=ba66e7ae9c04fa717ff8d17946074599&c_uniq_tag=Z1bEo-a1j5dvLKnGahsAnR7sf0uA9zb-D5U5vwTwJ58",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/gyjL9mM7VnVwQyYO0muLX4YpJES5EfNgfn9Tnw\/y_4Ewk8R3kM.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=382e025da8722f85eea01f130407c0e9&c_uniq_tag=M9OZByodAZDdV0A_MiNionPwEWAndbGrwUpc_U15JWs",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-24.userapi.com\/impg\/gyjL9mM7VnVwQyYO0muLX4YpJES5EfNgfn9Tnw\/y_4Ewk8R3kM.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=995602b23131e497ba13d27221ea8060&c_uniq_tag=3oPhbKE2bKJKXFR__7Pafhf0q8B_XQde-7wBocx2huk",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/dodo-83709377-9251900"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 30544,
+                    "name": "Пицца",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 20063,
+                        "name": "Еда на заказ",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 10006,
+                            "name": "Продукты питания",
+                            "is_v2": true
+                        }
+                    }
+                },
+                "description": "Пикантная пепперони, увеличенная порция моцареллы, фирменный томатный соус",
+                "id": 9251914,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "50500",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "505 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Пепперони",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-11.userapi.com\/impg\/ymdjk8HEIUhPOVLYX8rt8VB0h6NSeRH6FrC3hw\/GCq3sr0ests.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=72fcfc87dc26e2643c66901e4faed386&c_uniq_tag=Xq2AV9Vo6kKu8BRNXFnadlzHu1pW30uPbVP6qn-5PYI",
+                "url": "dodopizza.onelink.me",
+                "csrf_hashes": "fav=8fe2e38af9f4f1a624&wishlist=62bfc7eb849e511791",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/ymdjk8HEIUhPOVLYX8rt8VB0h6NSeRH6FrC3hw\/GCq3sr0ests.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=539c778490c2053f136f738fd725e459&c_uniq_tag=Rw-8BFggSEdn8mrb9ppNzmXyktyk08M3UCqMxvXtY7M",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/ymdjk8HEIUhPOVLYX8rt8VB0h6NSeRH6FrC3hw\/GCq3sr0ests.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=4afa2bcf563b5baf5846012c7ab74f10&c_uniq_tag=k1By75YJZu2oCE0J2NKfMv-MS_kgsj7uc-YTBNBQxzo",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/ymdjk8HEIUhPOVLYX8rt8VB0h6NSeRH6FrC3hw\/GCq3sr0ests.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=d55c5d51abc247c27a7e6e734b160b17&c_uniq_tag=t-OKHEsor6zJuXb1hMCn_bxKepXIaALzGswH_7dKRGs",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/ymdjk8HEIUhPOVLYX8rt8VB0h6NSeRH6FrC3hw\/GCq3sr0ests.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=0b9379e53ca7073c1d9ba2c3d06d51e6&c_uniq_tag=WULXG0Zdy2MxR3iagUXwVJycjMAygPzMKSpUPWRRYE0",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/ymdjk8HEIUhPOVLYX8rt8VB0h6NSeRH6FrC3hw\/GCq3sr0ests.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=d99d1c8421a152c178ebaed85b86b91e&c_uniq_tag=HqarszOXQcKF_c4MHj0yzwLEooGd3wsq3_9CclsCY28",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/pepperoni-83709377-9251914"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 41714,
+                    "name": "Маффины",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30555,
+                        "name": "Десерты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20063,
+                            "name": "Еда на заказ",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10006,
+                                "name": "Продукты питания",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Раз откусить — навсегда полюбить! Оцените яркое сочетание соленой карамели и арахиса.",
+                "id": 7222418,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "10900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "109 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Маффин Соленая карамель",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-11.userapi.com\/impg\/dl11xu5sZKs5b_fuv19THG7qxmOWJRfw3tvoow\/YHgjyQz-69k.jpg?size=0x400&crop=0,0,1,1&quality=95&sign=37357941911a4cb9f5da44e33d7ff43c&c_uniq_tag=tnjNvw7rTS2rkmX_cLcNXY4Wz43TUNRPwC0dgt-OnKM",
+                "url": "https:\/\/dodopizza.ru\/ekaterinburg\/dessert\/11ECC459A3306FC3DDB782757DB12EA0",
+                "csrf_hashes": "fav=9c42a187806a4bb496&wishlist=f59492fdfc9a0b6acd",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/dl11xu5sZKs5b_fuv19THG7qxmOWJRfw3tvoow\/YHgjyQz-69k.jpg?size=0x90&crop=0,0,1,1&quality=95&sign=95dccbeb11cb5732d7d22cdc64d049e6&c_uniq_tag=eU5Y7y_63z58z7axbNiWLxUrX-OFVspcJ_JwdPlcG3I",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/dl11xu5sZKs5b_fuv19THG7qxmOWJRfw3tvoow\/YHgjyQz-69k.jpg?size=0x180&crop=0,0,1,1&quality=95&sign=172e34f0fba27d0a5c8a10d7b61f662b&c_uniq_tag=SA8HrqaAlbVH8-X9_9PWiHsqjC9JXja-By9-v8X5gW8",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/dl11xu5sZKs5b_fuv19THG7qxmOWJRfw3tvoow\/YHgjyQz-69k.jpg?size=0x360&crop=0,0,1,1&quality=95&sign=95da5b45313b0fda7b4581600e347a12&c_uniq_tag=GL9LHTs_xX6CuaR1Wp_pqZIUjhxc_G0yLXPzOq0WNgc",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/dl11xu5sZKs5b_fuv19THG7qxmOWJRfw3tvoow\/YHgjyQz-69k.jpg?size=0x480&crop=0,0,1,1&quality=95&sign=29115da55f56f40e59bd159f91dfb471&c_uniq_tag=Q2_RsOTuEdpx-_u6J-kf7o4qmJ7EkuTFQmmCbWOc3KU",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-11.userapi.com\/impg\/dl11xu5sZKs5b_fuv19THG7qxmOWJRfw3tvoow\/YHgjyQz-69k.jpg?size=0x640&crop=0,0,1,1&quality=95&sign=cc2badc9f79ba6a53428b486d8d81cd7&c_uniq_tag=g3Eb3bHITKMRWdm54N1r428tWoaysSd_DH1LqAS5-3Q",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/maffin-solenaya-karamel-83709377-7222418"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 41714,
+                    "name": "Маффины",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30555,
+                        "name": "Десерты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20063,
+                            "name": "Еда на заказ",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10006,
+                                "name": "Продукты питания",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Ну и кекс этот маффин! Он из натурального какао, а внутри — нежная начинка из кубиков белого и молочного шоколада",
+                "id": 7615742,
+                "owner_id": -83709377,
+                "price": {
+                    "amount": "10900",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "109 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Маффин Три шоколада",
+                "button_title": "В магазин",
+                "item_type": 0,
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https:\/\/sun3-23.userapi.com\/impf\/dRyyGO9NmMA6nw4FE2avy8Joy1y4CjyWNiLHWA\/Uzu6tnhJozM.jpg?size=400x0&crop=0,0.133,1,0.749&quality=95&sign=6756256583b72be547c3f6e4d0bfd0ee&c_uniq_tag=ol8UXTbZOXql3uZejstF9gyF7ZCKdlnm37nYmPwUEcg",
+                "url": "https:\/\/dodopizza.ru\/ekaterinburg\/dessert\/maffin-tri-shokolada",
+                "csrf_hashes": "fav=81ea29b18b5c70b5f8&wishlist=8099a901aaa94598b5",
+                "thumb": [
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impf\/dRyyGO9NmMA6nw4FE2avy8Joy1y4CjyWNiLHWA\/Uzu6tnhJozM.jpg?size=90x0&crop=0,0.133,1,0.749&quality=95&sign=747f50733d114599a9af8a839dc4499c&c_uniq_tag=frrCZU7RKJAu-rlCjd4Yi_9gljbSIDRdHZ6Mz3XZ6zs",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impf\/dRyyGO9NmMA6nw4FE2avy8Joy1y4CjyWNiLHWA\/Uzu6tnhJozM.jpg?size=180x0&crop=0,0.133,1,0.749&quality=95&sign=5e2e1426f27b7f4602169f9f99368d0e&c_uniq_tag=trES2aqnVfgwElfZBBLFk6vR2LlYjj0-3FXMQMHk0JY",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impf\/dRyyGO9NmMA6nw4FE2avy8Joy1y4CjyWNiLHWA\/Uzu6tnhJozM.jpg?size=360x0&crop=0,0.133,1,0.749&quality=95&sign=f5343ec0fd6ec2a8360f525d76d7df48&c_uniq_tag=feZwBVVCb_qGkz0P1407-jVdRm40naE9x8eQqz_qWic",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impf\/dRyyGO9NmMA6nw4FE2avy8Joy1y4CjyWNiLHWA\/Uzu6tnhJozM.jpg?size=480x0&crop=0,0.133,1,0.749&quality=95&sign=c87115c49578a9b99ebfb2f4fa91e1d8&c_uniq_tag=xCllrA9QaZXJRpbSQAX7TZZIid06qNBI7bXIomW-jbg",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https:\/\/sun3-23.userapi.com\/impf\/dRyyGO9NmMA6nw4FE2avy8Joy1y4CjyWNiLHWA\/Uzu6tnhJozM.jpg?size=640x0&crop=0,0.133,1,0.749&quality=95&sign=68a251d0626c1f4009d6089bec397cb4&c_uniq_tag=1-n2Ilw_nGy6yMzOqPLeqEXmEP9vmb9TEMfkdeHZLIU",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "has_group_access": true,
+                "market_url": "https:\/\/vk.com\/market\/product\/maffin-tri-shokolada-83709377-7615742"
+            }
+        ]
+    }
+}
