@@ -19,7 +19,7 @@
 
 2. Запустите сервер FastAPI:
     ```bash
-    uvicorn app:app --reload
+    uvicorn main:app --reload
     ```
 
 3. Перейдите в браузере по адресу:
