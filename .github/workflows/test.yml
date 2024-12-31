@@ -1,0 +1,44 @@
+name: Tests
+
+on:
+  push:
+    branches:
+      - final-branch  # Срабатывает при push в final-branch
+  pull_request:
+    branches:
+      - final-branch  # Срабатывает при PR в final-branch
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2  # Клонируем репозиторий в контейнер
+        
+      - name: Set up PYTHONPATH
+        run: echo "PYTHONPATH=$(pwd)" >> $GITHUB_ENV
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9  # Указываем нужную версию Python
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt  # Устанавливаем все зависимости из requirements.txt
+      
+      - name: Run flake8 linting
+        run: |
+         flake8 --max-line-length=140 .
+
+      - name: Run tests
+        run: pytest -s --disable-warnings -q tests/
+
+
+      - name: Upload test results (optional)
+        if: failure()  # Можно настроить загрузку отчетов при сбое
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-results
+          path: ./test-results
