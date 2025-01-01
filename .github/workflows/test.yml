@@ -3,10 +3,10 @@ name: Tests
 on:
   push:
     branches:
-      - final-branch  # Срабатывает при push в final-branch
+      - lab3  # Срабатывает при push в final-branch
   pull_request:
     branches:
-      - final-branch  # Срабатывает при PR в final-branch
+      - lab3  # Срабатывает при PR в final-branch
 
 jobs:
   test:
