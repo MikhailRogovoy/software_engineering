@@ -24,12 +24,14 @@ app = FastAPI()
 MODEL_PATH = "xgboost_model.pkl"
 DATA_PATH = "Main_Data.csv"
 
+
 # Загрузка данных
 def load_data(data_path):
     data = pd.read_csv(data_path)
     X = data[["T", "E", "C", "FM", "Xfm", "AFM", "Xafm"]]
     y = data["h"]
     return X, y
+
 
 # Загрузка модели
 def load_model(model_path):
@@ -40,6 +42,7 @@ def load_model(model_path):
 X, y = load_data(DATA_PATH)
 model = load_model(MODEL_PATH)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
 
 # Эндпоинт для получения метрик модели
 @app.get("/metrics/")
@@ -60,6 +63,7 @@ async def get_metrics():
         "ROC-AUC": roc_auc_score(y_test, y_pred_prob),
     }
     return metrics
+
 
 # Эндпоинт для построения ROC-кривой
 @app.get("/roc_curve/")
@@ -83,6 +87,7 @@ async def get_roc_curve():
     plt.savefig(buf, format="png")
     buf.seek(0)
     return Response(content=buf.getvalue(), media_type="image/png")
+
 
 # Эндпоинт для кросс-валидации
 @app.get("/cross_validation/")
@@ -124,6 +129,7 @@ async def get_cross_validation():
         "mean_roc_auc": mean_roc_auc,
     }
 
+
 # Эндпоинт для построения графика ROC-AUC для кросс-валидации
 @app.get("/cross_validation_roc_auc/")
 async def get_cross_validation_roc_auc():
@@ -157,6 +163,7 @@ async def get_cross_validation_roc_auc():
     buf.seek(0)
     return Response(content=buf.getvalue(), media_type="image/png")
 
+
 # Эндпоинт для анализа важности признаков
 @app.get("/feature_importance/")
 async def get_feature_importance():
@@ -175,6 +182,7 @@ async def get_feature_importance():
     buf.seek(0)
     return Response(content=buf.getvalue(), media_type="image/png")
 
+
 # Эндпоинт для SHAP-анализа
 @app.get("/shap_analysis/")
 async def get_shap_analysis():
@@ -191,6 +199,7 @@ async def get_shap_analysis():
     plt.savefig(buf, format="png")
     buf.seek(0)
     return Response(content=buf.getvalue(), media_type="image/png")
+
 
 @app.post("/predict/")
 async def predict(file: UploadFile = File(...)):
