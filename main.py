@@ -38,6 +38,7 @@ def load_model(model_path):
     with open(model_path, "rb") as file:
         return pickle.load(file)
 
+
 # Инициализация данных и модели
 X, y = load_data(DATA_PATH)
 model = load_model(MODEL_PATH)
